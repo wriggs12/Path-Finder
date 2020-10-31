@@ -238,7 +238,6 @@ def main(win, width):
                     
     pygame.quit()
 
-
-
-main(win, size)
+if __name__ == "__main__":
+    main(win, size)
 
